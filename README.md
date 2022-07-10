@@ -37,7 +37,8 @@ As depicted by the Total Fare by City Type chart below, the Urban fares are more
 
 Ride-sharing data.
 
-        
+
+[!Ride-sharing Data Summary] ("C:\Users\Owner\OneDrive\Desktop\Module 5 PyBer with Matplotlib\PyBer_Analysis\analysis\Challenge_pyberdata_summary.png")     
 
 
 
