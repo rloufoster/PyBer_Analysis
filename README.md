@@ -41,8 +41,7 @@ As depicted by the Total Fare by City Type chart below, the Urban fares are subs
 -However, the Average Fare per Driver for the Rural is 
 almost $40.00 more than that of the Urban and approximately $15.00 more than the Suburban category.  
 
-![Ride-sharing Data Summary](https://raw.githubusercontent.com/rloufoster/PyBer_Analysis/9ea80d8c975f2603b04420e368e48a449bb5d7b7
-/analysis/Challenge_pyberdata_summary.png)  
+![Ride-sharing Data Summary](https://github.com/rloufoster/PyBer_Analysis/blob/main/analysis/Challenge_pyberdata_summary.png?raw=true)
 
 
 ## Conclusion
@@ -53,9 +52,9 @@ The missing data and resulting NaN's were a challenge and leaves us with an inco
 
 ### Next Steps
 
-1. First, I would like to propose that an internal audit be conducted to investigate more thorough and dependable tracking.  No form of analysis is going to be effective without the complete data representation. 
+1. First, I would like to propose that an internal audit be conducted to investigate the efficiency of our tracking and accounting systems. Future analyses will always be less than ideal without the complete data representation. 
 
-2. Secondly, I suggest that we run a fullscale analysis on for the complete year.  With more data points the incomplete data will be less relevant.  This  would also be helpful in determining how much of a seasonal effect this is across the categories (i.e., sporting events in the city, music festivals/concerts, holiday events).
+2. Secondly, I suggest that we run a fullscale analysis for the complete year.  With more data points the incomplete data will be less relevant.  This would also be helpful in determining how much of a seasonal effect exists across the categories (i.e., sporting events in the city, music festivals/concerts, holiday events). All of the scenarios will provide us with important information across all the categories.  
 
-3. And finally, I would like to do some deeper analysis on the effects of different variables on volume across the categories (i.e., Regression Analyses) to identify what is driving the volume.  Pyber could become more reactive about rate adjustments for busier and less busy periods.  We could also use this information to initiate rewards or incentive packages for customers depending upon volume and needs per neighborhood.
+3. And finally, I would like to do some deeper analyses on the effects of different variables on volume across the categories (i.e., Regression Analyses) to identify what is driving the volume.  Pyber could become more reactive about rate adjustments for busier and less busy periods armed with the full story on the root causes of volume fluctuations.  We could also use this information to initiate rewards or incentive packages for customers depending upon volume and needs per neighborhood.
 
